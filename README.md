@@ -1,4 +1,4 @@
-# multimodal_health_chatbot
+# Multimodal_health_chatbot
 ## Overview
 A multimodal Retrieval-Augmented Generation (RAG) system that answers questions from healthcare PDF reports by combining:
 Text extraction from PDFs
